@@ -1,5 +1,7 @@
 # Self Driving car Gta Sa
 
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODIyODBhNGY5NjJhZDgwNmJlYzA4ZWNiMjNiOGNhZTg1NWVlMWNmYyZjdD1n/vaqaXvmarVupry4fy4/giphy.gif)
+
 Self-Driving for Gta Sa using CNN:
 
 - **Model:** fine - tuned EfficientNet B1 on a small Custom Dataset
@@ -10,7 +12,9 @@ Self-Driving for Gta Sa using CNN:
 
 - More data will improve model performance.
 
-<img src="https://media.discordapp.net/attachments/1031423586050781246/1090868618729889832/image.png?width=712&height=565" width="400" height="250">
+- [Link Demo](https://www.youtube.com/watch?v=Mvjnz2GR1u4)
+
+<img src="https://media.discordapp.net/attachments/1031423586050781246/1090868618729889832/image.png?width=712&height=565" width="400" height="300">
 
 
 
