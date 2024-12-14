@@ -14,7 +14,6 @@ Self-Driving for Gta Sa using CNN:
 
 - [Link Demo](https://www.youtube.com/watch?v=Mvjnz2GR1u4)
 
-<img src="https://media.discordapp.net/attachments/1031423586050781246/1090868618729889832/image.png?width=712&height=565" width="400" height="300">
 
 
 
